@@ -1,9 +1,9 @@
--> ATM Banking Management System
+# ATM Banking Management System
 
 A robust desktop-based banking application developed in **Java** using **Swing** for the GUI and **MySQL** for database management. This system simulates the essential functionalities of a real-world Automated Teller Machine (ATM), providing a secure and user-friendly interface for banking transactions.
 
 
--> Features
+# Features
 
 - Authentication & Security
 * **Secure Login:** Users must authenticate using their Card Number and PIN.
@@ -23,7 +23,7 @@ A robust desktop-based banking application developed in **Java** using **Swing**
 * **Mini Statement:** View a generated receipt of recent transactions (Deposits & Withdrawals) with date and time stamps.
 
 
--> Technology Stack
+# Technology Stack
 
 * **Language:** Java (JDK 8+)
 * **Frontend:** Java Swing (AWT) for the Graphical User Interface.
@@ -31,9 +31,8 @@ A robust desktop-based banking application developed in **Java** using **Swing**
 * **Connectivity:** JDBC (Java Database Connectivity).
 * **IDE:** IntelliJ IDEA / Eclipse / NetBeans.
 
----
 
--> Project Structure
+# Project Structure
 
 The project is organized into the `bank.management.system` package:
 
@@ -53,7 +52,7 @@ The project is organized into the `bank.management.system` package:
 | **`connect.java`** | Manages the connection between the Java application and the MySQL database. |
 
 
--> Contributing
+# Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request for any feature enhancements or bug fixes.
 
