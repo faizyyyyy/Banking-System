@@ -5,7 +5,7 @@ A robust desktop-based banking application developed in **Java** using **Swing**
 
 # Features
 
-- Authentication & Security
+## Authentication & Security
 * **Secure Login:** Users must authenticate using their Card Number and PIN.
 * **Sign Up Flow:** A comprehensive 3-step registration process to verify user identity and create a new account.
     * **Page 1:** Personal Details (Name, Address, etc.)
@@ -13,12 +13,12 @@ A robust desktop-based banking application developed in **Java** using **Swing**
     * **Page 3:** Account Details (Account Type, Services required).
 * **PIN Change:** Users can securely update their ATM PIN at any time.
 
-- Transactions
+## Transactions
 * **Deposit:** Add funds to the account instantly.
 * **Cash Withdrawal:** Withdraw money with real-time balance validation.
 * **Fast Cash:** One-click withdrawal options for common amounts (Rs 100, 500, 1000, 2000, etc.).
 
-- Account Utilities
+## Account Utilities
 * **Balance Enquiry:** Check current account balance on screen.
 * **Mini Statement:** View a generated receipt of recent transactions (Deposits & Withdrawals) with date and time stamps.
 
